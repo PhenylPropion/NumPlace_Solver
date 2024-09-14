@@ -1,5 +1,3 @@
-package jp.co.nbe.javabasis;
-
 import java.util.Scanner;
 
 public class NumberPlace {
